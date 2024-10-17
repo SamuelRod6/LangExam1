@@ -4,8 +4,6 @@ def modPow(a: Int, b: Int, c: Int): Int = {
   // Verificamos que el módulo sea mayor a 1
   require(c >= 2, "Modulus must be more than 1")
   if (b == 0) 1
-  else {
-    val aModC = a % c
-    (aModC * modPow(aModC, b - 1, c)) % c
-  }
+  else
+    (a % c * modPow(a, b - 1, c)) % c
 }

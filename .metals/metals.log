@@ -1436,3 +1436,560 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2024.10.14 18:20:31 INFO  time: compiled LangExam1Git_f4dd477a3a in 3.69s
 2024.10.14 18:22:57 INFO  compiling langexam1git_f4dd477a3a (1 scala source)
 2024.10.14 18:22:57 INFO  time: compiled LangExam1Git_f4dd477a3a in 0.8s
+Oct 14, 2024 6:25:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.14 18:25:23 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751 (1 scala source)
+2024.10.14 18:25:24 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751 in 1.32s
+2024.10.14 18:25:25 INFO  compiling langexam1git_f4dd477a3a (1 scala source)
+2024.10.14 18:25:27 INFO  time: compiled LangExam1Git_f4dd477a3a in 1.84s
+Oct 14, 2024 6:25:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 681
+Oct 14, 2024 6:26:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 752
+Oct 14, 2024 6:26:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 753
+Oct 14, 2024 6:26:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 756
+Oct 14, 2024 6:26:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 760
+Oct 14, 2024 6:26:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 773
+Oct 14, 2024 6:26:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 782
+2024.10.14 18:26:28 INFO  compiling langexam1git_f4dd477a3a (1 scala source)
+2024.10.14 18:26:28 INFO  time: compiled LangExam1Git_f4dd477a3a in 0.98s
+Oct 14, 2024 6:26:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 863
+2024.10.14 18:26:50 INFO  compiling langexam1git_f4dd477a3a (1 scala source)
+2024.10.14 18:26:50 INFO  time: compiled LangExam1Git_f4dd477a3a in 0.6s
+Oct 14, 2024 6:32:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 920
+2024.10.14 18:32:41 INFO  no build target found for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.i.sc. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 18:32:41 INFO  Running List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\SAMUEL~1\AppData\Local\Temp\metals-scala-cli12913249576112867443, --semantic-db-source-root, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.i.sc)
+2024.10.14 18:32:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.14 18:32:44 INFO  Cancelling compilation on scala-cli server
+2024.10.14 18:32:44 INFO  time: Imported build in 0.11s
+2024.10.14 18:32:44 INFO  running doctor check
+2024.10.14 18:32:44 INFO  java targets: metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751, metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751-test, LangExam1Git_f4dd477a3a-test, LangExam1Git_f4dd477a3a, LangExam1Git_b03092f6f1, LangExam1Git_b03092f6f1-test
+2024.10.14 18:32:44 INFO  running doctor check
+2024.10.14 18:32:44 INFO  java targets: metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751, metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751-test, LangExam1Git_f4dd477a3a-test, LangExam1Git_f4dd477a3a, LangExam1Git_b03092f6f1, LangExam1Git_b03092f6f1-test
+2024.10.14 18:32:45 INFO  compiling langexam1git_b03092f6f1 (2 scala sources)
+2024.10.14 18:32:45 INFO  compiling langexam1git_f4dd477a3a (2 scala sources)
+2024.10.14 18:32:47 INFO  time: compiled LangExam1Git_b03092f6f1 in 2.9s
+2024.10.14 18:32:48 INFO  time: compiled LangExam1Git_f4dd477a3a in 2.97s
+2024.10.14 18:32:47 INFO  time: compiled LangExam1Git_b03092f6f1 in 0.17s
+2024.10.14 18:32:50 INFO  Scala CLI: os.PathError$LastOnEmptyPath: empty path has no last segment
+2024.10.14 18:32:50 INFO  Scala CLI: 	at os.PathError$LastOnEmptyPath$.apply(Path.scala:228)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at os.BasePathImpl.last$$anonfun$1(Path.scala:210)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at scala.Option.getOrElse(Option.scala:201)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at os.BasePathImpl.last(Path.scala:210)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at os.BasePathImpl.last$(Path.scala:190)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at os.RelPath.last(Path.scala:261)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at scala.build.bsp.BloopSession.isScalaFile$1(BloopSession.scala:40)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at scala.build.bsp.BloopSession.$anonfun$1(BloopSession.scala:42)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at scala.build.bsp.BloopSession.registerWatchInputs$$anonfun$1$$anonfun$1(BloopSession.scala:48)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at scala.build.Build$$anon$2.onNext(Build.scala:1244)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at scala.build.Build$$anon$2.onNext(Build.scala:1243)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.Observers.onNext(Observers.java:31)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.SymlinkFollowingPathWatcher$1.onNext(SymlinkFollowingPathWatcher.java:58)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.SymlinkFollowingPathWatcher$1.onNext(SymlinkFollowingPathWatcher.java:36)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.Observers.onNext(Observers.java:31)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher.runCallbacks(NioPathWatcher.java:462)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher.handleEvent(NioPathWatcher.java:486)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher.access$300(NioPathWatcher.java:35)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher$2.accept(NioPathWatcher.java:108)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher$2.accept(NioPathWatcher.java:102)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcherService$2.run(NioPathWatcherService.java:95)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.10.14 18:32:50 INFO  Scala CLI: 	at com.oracle.svm.core.windows.WindowsPlatformThreads.osThreadStartRoutine(WindowsPlatformThreads.java:178)
+2024.10.14 18:32:51 INFO  no build target found for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.ii.sc. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 18:32:51 INFO  Running List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\SAMUEL~1\AppData\Local\Temp\metals-scala-cli12913249576112867443, --semantic-db-source-root, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.ii.sc)
+2024.10.14 18:32:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.14 18:32:51 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751 in 1ms
+2024.10.14 18:32:51 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751 in 2ms
+Oct 14, 2024 6:32:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 943
+2024.10.14 18:32:53 INFO  time: code lens generation in 2.12s
+Oct 14, 2024 6:32:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 946
+Oct 14, 2024 6:32:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 948
+2024.10.14 18:32:54 INFO  time: indexed workspace in 9.63s
+2024.10.14 18:32:54 INFO  time: indexed workspace in 9.7s
+2024.10.14 18:32:54 WARN  no build target for: C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.ii.sc
+2024.10.14 18:32:54 WARN  no build target for: C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.ii.sc
+Oct 14, 2024 6:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 952
+2024.10.14 18:32:55 INFO  Cancelling compilation on scala-cli server
+2024.10.14 18:32:55 INFO  time: Imported build in 0.14s
+2024.10.14 18:32:55 INFO  running doctor check
+2024.10.14 18:32:55 INFO  java targets: metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751, metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751-test, LangExam1Git_f4dd477a3a-test, LangExam1Git_f4dd477a3a, LangExam1Git_b03092f6f1, LangExam1Git_b03092f6f1-test
+2024.10.14 18:32:56 INFO  compiling langexam1git_f4dd477a3a (2 scala sources)
+2024.10.14 18:32:56 INFO  time: Imported build in 0.11s
+2024.10.14 18:32:56 INFO  Connected to Scala CLI server v1.5.1
+2024.10.14 18:32:55 INFO  running doctor check
+2024.10.14 18:32:55 INFO  java targets: metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751, metals-scala-cli12913249576112867443_5d2fbcca8f-be1af19751-test, LangExam1Git_f4dd477a3a-test, LangExam1Git_f4dd477a3a, LangExam1Git_b03092f6f1, LangExam1Git_b03092f6f1-test
+2024.10.14 18:32:56 INFO  compiling langexam1git_b03092f6f1 (2 scala sources)
+2024.10.14 18:32:58 WARN  Invalid text document uri received from build server: file:///C:/Users/Samuel%20Rodriguez/Desktop/LangExam1Git/.scala-build/LangExam1Git_b03092f6f1/src_generated/main/pregunta1.b.ii.scala
+2024.10.14 18:32:58 INFO  time: compiled LangExam1Git_b03092f6f1 in 2.27s
+2024.10.14 18:32:59 WARN  Invalid text document uri received from build server: file:///C:/Users/Samuel%20Rodriguez/Desktop/LangExam1Git/.scala-build/LangExam1Git_b03092f6f1/src_generated/main/pregunta1.b.ii.scala
+2024.10.14 18:32:59 INFO  time: compiled LangExam1Git_b03092f6f1 in 604?s
+2024.10.14 18:33:00 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 18:33:01 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 1.29s
+2024.10.14 18:33:04 INFO  time: indexed workspace in 7.68s
+2024.10.14 18:33:04 INFO  Connected to Scala CLI server v1.5.1
+2024.10.14 18:33:04 INFO  time: indexed workspace in 8.94s
+2024.10.14 18:33:05 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0d114aa0a0 (1 scala source)
+2024.10.14 18:33:05 INFO  time: indexed workspace in 9.05s
+2024.10.14 18:33:07 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0d114aa0a0 in 1.66s
+2024.10.14 18:33:07 INFO  Scala CLI started for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.i.sc
+2024.10.14 18:33:09 INFO  time: indexed workspace in 4.86s
+2024.10.14 18:33:09 INFO  Scala CLI started for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.ii.sc
+2024.10.14 18:33:34 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 18:33:34 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 0.47s
+2024.10.14 18:34:07 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 18:34:07 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 0.43s
+Oct 14, 2024 6:38:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1038
+Oct 14, 2024 6:38:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1110
+Oct 14, 2024 6:38:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1118
+Oct 14, 2024 6:39:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1339
+Oct 14, 2024 6:39:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1426
+Oct 14, 2024 6:39:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1427
+2024.10.14 18:40:28 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 18:40:28 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 0.54s
+Oct 14, 2024 6:40:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1566
+Oct 14, 2024 6:40:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1567
+Oct 14, 2024 6:41:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1628
+2024.10.14 18:41:28 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 18:41:30 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 2.23s
+2024.10.14 18:41:32 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 18:41:32 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 0.79s
+2024.10.14 18:43:48 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 18:43:48 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 0.53s
+2024.10.14 18:44:20 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 18:44:20 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 0.69s
+Oct 14, 2024 7:11:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 14, 2024 7:20:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1936
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.11/scala-reflect-2.13.11.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.11/scala-reflect-2.13.11.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.12.0/metaconfig-core_2.13-0.12.0.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.12.0/metaconfig-typesafe-config_2.13-0.12.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.12.0/metaconfig-typesafe-config_2.13-0.12.0.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.12.0/metaconfig-core_2.13-0.12.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.12/scala-compiler-2.13.12.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.13/0.4.3/paiges-core_2.13-0.4.3.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.11.0/scala-collection-compat_2.13-2.11.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.12.0/metaconfig-pprint_2.13-0.12.0.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.12.0/metaconfig-pprint_2.13-0.12.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.12/scala-compiler-2.13.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.11.0/scala-collection-compat_2.13-2.11.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.13/0.4.3/paiges-core_2.13-0.4.3.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.13/0.4.0/fansi_2.13-0.4.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/jline/jline/3.22.0/jline-3.22.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.13/0.4.0/fansi_2.13-0.4.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.pom
+Downloaded https://repo1.maven.org/maven2/org/jline/jline/3.22.0/jline-3.22.0.pom
+Downloading https://repo1.maven.org/maven2/org/jline/jline-parent/3.22.0/jline-parent-3.22.0.pom
+Downloaded https://repo1.maven.org/maven2/org/jline/jline-parent/3.22.0/jline-parent-3.22.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.3.1/sourcecode_2.13-0.3.1.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.3.1/sourcecode_2.13-0.3.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.12.0/metaconfig-pprint_2.13-0.12.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.12.0/metaconfig-pprint_2.13-0.12.0.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.12.0/metaconfig-typesafe-config_2.13-0.12.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.13/0.4.0/fansi_2.13-0.4.0.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.12.0/metaconfig-typesafe-config_2.13-0.12.0.jar
+Downloading https://repo1.maven.org/maven2/org/jline/jline/3.22.0/jline-3.22.0.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.13/0.4.0/fansi_2.13-0.4.0.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.11.0/scala-collection-compat_2.13-2.11.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.11.0/scala-collection-compat_2.13-2.11.0.jar
+Downloading https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.13/0.4.3/paiges-core_2.13-0.4.3.jar
+Downloaded https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.13/0.4.3/paiges-core_2.13-0.4.3.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.3.1/sourcecode_2.13-0.3.1.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.3.1/sourcecode_2.13-0.3.1.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.12/scala-compiler-2.13.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/jline/jline/3.22.0/jline-3.22.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.12.0/metaconfig-core_2.13-0.12.0.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.12.0/metaconfig-core_2.13-0.12.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar
+2024.10.14 19:20:22 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 19:20:22 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 0.64s
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.12/scala-compiler-2.13.12.jar
+Oct 14, 2024 7:20:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1957
+Oct 14, 2024 7:20:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1958
+Oct 14, 2024 7:20:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1960
+Oct 14, 2024 7:20:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1959
+2024.10.14 19:20:36 INFO  compiling metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 (1 scala source)
+2024.10.14 19:20:36 INFO  time: compiled metals-scala-cli12913249576112867443_5d2fbcca8f-0cdd0f51b9 in 0.44s
+Oct 14, 2024 7:50:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.15 00:06:33 INFO  Shutting down server
+2024.10.15 00:06:33 INFO  shutting down Metals
+2024.10.15 00:06:33 INFO  Shut down connection with build server.
+2024.10.15 00:06:33 INFO  Shut down connection with build server.
+2024.10.15 00:06:33 INFO  Shut down connection with build server.
+2024.10.15 00:06:33 INFO  Shut down connection with build server.
+2024.10.15 00:06:35 INFO  Exiting server
+2024.10.15 10:32:48 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git' for client Visual Studio Code 1.94.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6641685c]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@762ee94d]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6641685c]
+2024.10.15 10:32:49 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.15 10:32:52 INFO  Attempting to connect to the build server...
+2024.10.15 10:32:52 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.10.15 10:32:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.15 10:33:01 INFO  BSP server: Starting compilation server
+2024.10.15 10:33:35 INFO  BSP server: Error: java.lang.RuntimeException: Timeout (10 seconds) while waiting for BSP socket to be created in C:\Users\Samuel Rodriguez\AppData\Local\ScalaCli\cache\bsp-sockets\proc-23452
+2024.10.15 10:33:35 INFO  BSP server: For more details, please see 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\stacktraces\1729002813-7716730767904434951.log'
+2024.10.15 10:33:52 ERROR Timeout waiting for 'build/initialize' response
+2024.10.15 10:33:52 WARN  Retrying connection to the build server scala-cli
+2024.10.15 10:33:52 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.10.15 10:33:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.15 10:33:55 INFO  time: Connected to build server in 1m3s
+2024.10.15 10:33:55 INFO  Connected to Build server: scala-cli v1.5.1
+2024.10.15 10:33:56 INFO  time: Imported build in 0.34s
+2024.10.15 10:33:56 INFO  running doctor check
+2024.10.15 10:33:56 INFO  java targets: LangExam1Git_0c85ed7fca-test, LangExam1Git_0c85ed7fca
+2024.10.15 10:33:57 INFO  compiling langexam1git_0c85ed7fca (2 scala sources)
+2024.10.15 10:34:02 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.15 10:34:04 INFO  time: indexed workspace in 8.7s
+2024.10.15 10:34:11 INFO  time: compiled LangExam1Git_0c85ed7fca in 13s
+2024.10.15 10:37:38 INFO  Shutting down server
+2024.10.15 10:37:38 INFO  shutting down Metals
+2024.10.15 10:37:38 INFO  Shut down connection with build server.
+2024.10.15 10:39:05 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git' for client Visual Studio Code 1.94.2.
+2024.10.15 10:39:05 INFO  time: initialize in 0.12s
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@f96f83e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1ff5c21e]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@f96f83e]
+2024.10.15 10:39:08 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.15 10:39:13 INFO  Attempting to connect to the build server...
+2024.10.15 10:39:14 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.10.15 10:39:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.15 10:39:33 INFO  time: Connected to build server in 20s
+2024.10.15 10:39:33 INFO  Connected to Build server: scala-cli v1.5.1
+2024.10.15 10:39:34 INFO  time: Imported build in 0.37s
+2024.10.15 10:39:34 INFO  running doctor check
+2024.10.15 10:39:34 INFO  java targets: LangExam1Git_0c85ed7fca-test, LangExam1Git_0c85ed7fca
+2024.10.15 10:39:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.15 10:39:48 INFO  time: indexed workspace in 14s
+2024.10.15 11:15:27 INFO  no build target found for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.15 11:15:29 INFO  compiling langexam1git_0c85ed7fca (1 scala source)
+2024.10.15 11:15:30 INFO  time: compiled LangExam1Git_0c85ed7fca in 1.1s
+2024.10.15 11:15:30 INFO  time: Imported build in 1.96s
+2024.10.15 11:15:30 INFO  no build target found for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.15 11:15:30 WARN  no build target for: C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 11:15:34 INFO  running doctor check
+2024.10.15 11:15:34 INFO  java targets: LangExam1Git_0c85ed7fca-test, LangExam1Git_0c85ed7fca
+2024.10.15 11:15:37 INFO  time: indexed workspace in 7.52s
+Oct 15, 2024 11:15:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Oct 15, 2024 11:15:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+Oct 15, 2024 11:16:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 81
+Oct 15, 2024 11:16:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 143
+Oct 15, 2024 11:16:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 147
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 152
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 153
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 154
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 155
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 157
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 158
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 159
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 160
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 161
+Oct 15, 2024 11:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 164
+2024.10.15 12:05:55 INFO  compiling langexam1git_0c85ed7fca (1 scala source)
+2024.10.15 12:05:58 INFO  time: compiled LangExam1Git_0c85ed7fca in 2.52s
+2024.10.15 12:06:22 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:22 INFO  compiling langexam1git_0c85ed7fca (1 scala source)
+2024.10.15 12:06:22 INFO  time: compiled LangExam1Git_0c85ed7fca in 0.62s
+2024.10.15 12:06:23 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:37 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:38 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:39 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:42 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:43 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:44 INFO  compiling langexam1git_0c85ed7fca (1 scala source)
+2024.10.15 12:06:44 INFO  time: compiled LangExam1Git_0c85ed7fca in 0.63s
+2024.10.15 12:06:45 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:46 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:52 WARN  Could not load snapshot text for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.scala
+2024.10.15 12:06:59 INFO  Cancelling compilation on scala-cli server
+2024.10.15 12:06:59 INFO  no build target found for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.sc. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.15 12:07:00 INFO  compiling langexam1git_0c85ed7fca (3 scala sources)
+2024.10.15 12:07:02 INFO  no build target found for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.sc. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.15 12:07:02 INFO  no build target found for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.sc. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.15 12:07:03 INFO  Running List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\SAMUEL~1\AppData\Local\Temp\metals-scala-cli5598984717510563197, --semantic-db-source-root, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.sc)
+2024.10.15 12:07:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.15 12:07:05 WARN  Invalid text document uri received from build server: file:///C:/Users/Samuel%20Rodriguez/Desktop/LangExam1Git/test.scala
+2024.10.15 12:07:05 INFO  time: compiled LangExam1Git_0c85ed7fca in 4.76s
+2024.10.15 12:07:05 WARN  no build target for: C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.sc
+2024.10.15 12:07:05 INFO  time: Imported build in 6.15s
+2024.10.15 12:07:05 INFO  running doctor check
+2024.10.15 12:07:05 INFO  java targets: LangExam1Git_0c85ed7fca-test, LangExam1Git_0c85ed7fca
+2024.10.15 12:07:10 INFO  time: indexed workspace in 4.54s
+2024.10.15 12:07:10 INFO  Connected to Scala CLI server v1.5.1
+2024.10.15 12:07:11 INFO  compiling metals-scala-cli5598984717510563197_5d2fbcca8f-68333d6fcc (1 scala source)
+2024.10.15 12:07:14 INFO  time: indexed workspace in 3.76s
+2024.10.15 12:07:19 INFO  time: compiled metals-scala-cli5598984717510563197_5d2fbcca8f-68333d6fcc in 7.68s
+2024.10.15 12:07:19 INFO  Scala CLI started for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\test.sc
+2024.10.15 12:07:37 INFO  Scala CLI: os.PathError$LastOnEmptyPath: empty path has no last segment
+2024.10.15 12:07:37 INFO  Scala CLI: 	at os.PathError$LastOnEmptyPath$.apply(Path.scala:228)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at os.BasePathImpl.last$$anonfun$1(Path.scala:210)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at scala.Option.getOrElse(Option.scala:201)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at os.BasePathImpl.last(Path.scala:210)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at os.BasePathImpl.last$(Path.scala:190)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at os.RelPath.last(Path.scala:261)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at scala.build.bsp.BloopSession.isScalaFile$1(BloopSession.scala:40)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at scala.build.bsp.BloopSession.$anonfun$1(BloopSession.scala:42)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at scala.build.bsp.BloopSession.registerWatchInputs$$anonfun$1$$anonfun$1(BloopSession.scala:48)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at scala.build.Build$$anon$2.onNext(Build.scala:1244)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at scala.build.Build$$anon$2.onNext(Build.scala:1243)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.Observers.onNext(Observers.java:31)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.SymlinkFollowingPathWatcher$1.onNext(SymlinkFollowingPathWatcher.java:58)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.SymlinkFollowingPathWatcher$1.onNext(SymlinkFollowingPathWatcher.java:36)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.Observers.onNext(Observers.java:31)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher.runCallbacks(NioPathWatcher.java:462)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher.handleEvent(NioPathWatcher.java:486)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher.access$300(NioPathWatcher.java:35)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher$2.accept(NioPathWatcher.java:108)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcher$2.accept(NioPathWatcher.java:102)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.swoval.files.NioPathWatcherService$2.run(NioPathWatcherService.java:95)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.10.15 12:07:37 INFO  Scala CLI: 	at com.oracle.svm.core.windows.WindowsPlatformThreads.osThreadStartRoutine(WindowsPlatformThreads.java:178)
+2024.10.15 12:07:37 INFO  time: compiled metals-scala-cli5598984717510563197_5d2fbcca8f-68333d6fcc in 2ms
+2024.10.15 12:07:37 INFO  running doctor check
+2024.10.15 12:07:37 INFO  java targets: metals-scala-cli5598984717510563197_5d2fbcca8f-68333d6fcc-test, metals-scala-cli5598984717510563197_5d2fbcca8f-68333d6fcc, LangExam1Git_0c85ed7fca-test, LangExam1Git_0c85ed7fca
+Oct 15, 2024 12:07:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.15 12:07:42 INFO  time: indexed workspace in 4.52s
+2024.10.15 23:44:02 INFO  Report absolute-path: ### java.lang.IllegalArgumentException: Illegal character in opaque part at index 27: jar:file:///C:/Users/Samuel Rodriguez/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14-sources.jar!/scala/Array.scala
+
+Uri: jar:file:///C:/Users/Samuel Rodriguez/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14-sources.jar!/scala/Array.scala
+
+
+#### Error stacktrace:
+
+```
+java.base/java.net.URI.create(URI.java:906)
+	scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:177)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePathSafe(MetalsEnrichments.scala:756)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceForOpt(WorkspaceLspService.scala:308)
+	scala.meta.internal.metals.WorkspaceLspService.getServiceFor(WorkspaceLspService.scala:317)
+	scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:783)
+	scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+```
+
+Oct 15, 2024 11:44:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didOpen",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///C%3A/Users/Samuel%20Rodriguez/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14-sources.jar%21/scala/Array.scala",
+      "languageId": "scala",
+      "version": 1,
+      "text": "/*\n * Scala (https://www.scala-lang.org)\n *\n * Copyright EPFL and Lightbend, Inc.\n *\n * Licensed under Apache License 2.0\n * (http://www.apache.org/licenses/LICENSE-2.0).\n *\n * See the NOTICE file distributed with this work for\n * additional information regarding copyright ownership.\n */\n\npackage scala\n\n//import scala.collection.generic._\nimport scala.collection.{Factory, immutable, mutable}\nimport mutable.ArrayBuilder\nimport immutable.ArraySeq\nimport scala.language.implicitConversions\nimport scala.reflect.{ClassTag, classTag}\nimport scala.runtime.BoxedUnit\nimport scala.runtime.ScalaRunTime\nimport scala.runtime.ScalaRunTime.{array_apply, array_update}\n\n/** Utility methods for operating on arrays.\n *  For example:\n *  {{{\n *  val a \u003d Array(1, 2)\n *  val b \u003d Array.ofDim[Int](2)\n *  val c \u003d Array.concat(a, b)\n *  }}}\n *  where the array objects `a`, `b` and `c` have respectively the values\n *  `Array(1, 2)`, `Array(0, 0)` and `Array(1, 2, 0, 0)`.\n */\nobject Array {\n  val emptyBooleanArray \u003d new Array[Boolean](0)\n  val emptyByteArray    \u003d new Array[Byte](0)\n  val emptyCharArray    \u003d new Array[Char](0)\n  val emptyDoubleArray  \u003d new Array[Double](0)\n  val emptyFloatArray   \u003d new Array[Float](0)\n  val emptyIntArray     \u003d new Array[Int](0)\n  val emptyLongArray    \u003d new Array[Long](0)\n  val emptyShortArray   \u003d new Array[Short](0)\n  val emptyObjectArray  \u003d new Array[Object](0)\n\n  /** Provides an implicit conversion from the Array object to a collection Factory */\n  implicit def toFactory[A : ClassTag](dummy: Array.type): Factory[A, Array[A]] \u003d new ArrayFactory(dummy)\n  @SerialVersionUID(3L)\n  private class ArrayFactory[A : ClassTag](dummy: Array.type) extends Factory[A, Array[A]] with Serializable {\n    def fromSpecific(it: IterableOnce[A]): Array[A] \u003d Array.from[A](it)\n    def newBuilder: mutable.Builder[A, Array[A]] \u003d Array.newBuilder[A]\n  }\n\n  /**\n   * Returns a new [[scala.collection.mutable.ArrayBuilder]].\n   */\n  def newBuilder[T](implicit t: ClassTag[T]): ArrayBuilder[T] \u003d ArrayBuilder.make[T](t)\n\n  /** Build an array from the iterable collection.\n   *\n   *  {{{\n   *  scala\u003e val a \u003d Array.from(Seq(1, 5))\n   *  val a: Array[Int] \u003d Array(1, 5)\n   *\n   *  scala\u003e val b \u003d Array.from(Range(1, 5))\n   *  val b: Array[Int] \u003d Array(1, 2, 3, 4)\n   *  }}}\n   *\n   *  @param  it the iterable collection\n   *  @return    an array consisting of elements of the iterable collection\n   */\n  def from[A : ClassTag](it: IterableOnce[A]): Array[A] \u003d it match {\n    case it: Iterable[A] \u003d\u003e it.toArray[A]\n    case _ \u003d\u003e it.iterator.toArray[A]\n  }\n\n  private def slowcopy(src : AnyRef,\n                       srcPos : Int,\n                       dest : AnyRef,\n                       destPos : Int,\n                       length : Int): Unit \u003d {\n    var i \u003d srcPos\n    var j \u003d destPos\n    val srcUntil \u003d srcPos + length\n    while (i \u003c srcUntil) {\n      array_update(dest, j, array_apply(src, i))\n      i +\u003d 1\n      j +\u003d 1\n    }\n  }\n\n  /** Copy one array to another.\n   *  Equivalent to Java\u0027s\n   *    `System.arraycopy(src, srcPos, dest, destPos, length)`,\n   *  except that this also works for polymorphic and boxed arrays.\n   *\n   *  Note that the passed-in `dest` array will be modified by this call.\n   *\n   *  @param src the source array.\n   *  @param srcPos  starting position in the source array.\n   *  @param dest destination array.\n   *  @param destPos starting position in the destination array.\n   *  @param length the number of array elements to be copied.\n   *\n   *  @see `java.lang.System#arraycopy`\n   */\n  def copy(src: AnyRef, srcPos: Int, dest: AnyRef, destPos: Int, length: Int): Unit \u003d {\n    val srcClass \u003d src.getClass\n    if (srcClass.isArray \u0026\u0026 dest.getClass.isAssignableFrom(srcClass))\n      java.lang.System.arraycopy(src, srcPos, dest, destPos, length)\n    else\n      slowcopy(src, srcPos, dest, destPos, length)\n  }\n\n  /** Copy one array to another, truncating or padding with default values (if\n    * necessary) so the copy has the specified length.\n    *\n    * Equivalent to Java\u0027s\n    *   `java.util.Arrays.copyOf(original, newLength)`,\n    * except that this works for primitive and object arrays in a single method.\n    *\n    * @see `java.util.Arrays#copyOf`\n    */\n  def copyOf[A](original: Array[A], newLength: Int): Array[A] \u003d ((original: @unchecked) match {\n    case x: Array[BoxedUnit]  \u003d\u003e newUnitArray(newLength).asInstanceOf[Array[A]]\n    case x: Array[AnyRef]     \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n    case x: Array[Int]        \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n    case x: Array[Double]     \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n    case x: Array[Long]       \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n    case x: Array[Float]      \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n    case x: Array[Char]       \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n    case x: Array[Byte]       \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n    case x: Array[Short]      \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n    case x: Array[Boolean]    \u003d\u003e java.util.Arrays.copyOf(x, newLength)\n  }).asInstanceOf[Array[A]]\n\n  /** Copy one array to another, truncating or padding with default values (if\n    * necessary) so the copy has the specified length. The new array can have\n    * a different type than the original one as long as the values are\n    * assignment-compatible. When copying between primitive and object arrays,\n    * boxing and unboxing are supported.\n    *\n    * Equivalent to Java\u0027s\n    *   `java.util.Arrays.copyOf(original, newLength, newType)`,\n    * except that this works for all combinations of primitive and object arrays\n    * in a single method.\n    *\n    * @see `java.util.Arrays#copyOf`\n    */\n  def copyAs[A](original: Array[_], newLength: Int)(implicit ct: ClassTag[A]): Array[A] \u003d {\n    val runtimeClass \u003d ct.runtimeClass\n    if (runtimeClass \u003d\u003d Void.TYPE) newUnitArray(newLength).asInstanceOf[Array[A]]\n    else {\n      val destClass \u003d runtimeClass.asInstanceOf[Class[A]]\n      if (destClass.isAssignableFrom(original.getClass.getComponentType)) {\n        if (destClass.isPrimitive) copyOf[A](original.asInstanceOf[Array[A]], newLength)\n        else {\n          val destArrayClass \u003d java.lang.reflect.Array.newInstance(destClass, 0).getClass.asInstanceOf[Class[Array[AnyRef]]]\n          java.util.Arrays.copyOf(original.asInstanceOf[Array[AnyRef]], newLength, destArrayClass).asInstanceOf[Array[A]]\n        }\n      } else {\n        val dest \u003d new Array[A](newLength)\n        Array.copy(original, 0, dest, 0, original.length)\n        dest\n      }\n    }\n  }\n\n  private def newUnitArray(len: Int): Array[Unit] \u003d {\n    val result \u003d new Array[Unit](len)\n    java.util.Arrays.fill(result.asInstanceOf[Array[AnyRef]], ())\n    result\n  }\n\n  /** Returns an array of length 0 */\n  def empty[T: ClassTag]: Array[T] \u003d new Array[T](0)\n\n  /** Creates an array with given elements.\n   *\n   *  @param xs the elements to put in the array\n   *  @return an array containing all elements from xs.\n   */\n  // Subject to a compiler optimization in Cleanup.\n  // Array(e0, ..., en) is translated to { val a \u003d new Array(3); a(i) \u003d ei; a }\n  def apply[T: ClassTag](xs: T*): Array[T] \u003d {\n    val len \u003d xs.length\n    xs match {\n      case wa: immutable.ArraySeq[_] if wa.unsafeArray.getClass.getComponentType \u003d\u003d classTag[T].runtimeClass \u003d\u003e\n        // We get here in test/files/run/sd760a.scala, `Array[T](t)` for\n        // a specialized type parameter `T`. While we still pay for two\n        // copies of the array it is better than before when we also boxed\n        // each element when populating the result.\n        ScalaRunTime.array_clone(wa.unsafeArray).asInstanceOf[Array[T]]\n      case _ \u003d\u003e\n        val array \u003d new Array[T](len)\n        val iterator \u003d xs.iterator\n        var i \u003d 0\n        while (iterator.hasNext) {\n          array(i) \u003d iterator.next(); i +\u003d 1\n        }\n        array\n    }\n  }\n\n  /** Creates an array of `Boolean` objects */\n  // Subject to a compiler optimization in Cleanup, see above.\n  def apply(x: Boolean, xs: Boolean*): Array[Boolean] \u003d {\n    val array \u003d new Array[Boolean](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates an array of `Byte` objects */\n  // Subject to a compiler optimization in Cleanup, see above.\n  def apply(x: Byte, xs: Byte*): Array[Byte] \u003d {\n    val array \u003d new Array[Byte](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates an array of `Short` objects */\n  // Subject to a compiler optimization in Cleanup, see above.\n  def apply(x: Short, xs: Short*): Array[Short] \u003d {\n    val array \u003d new Array[Short](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates an array of `Char` objects */\n  // Subject to a compiler optimization in Cleanup, see above.\n  def apply(x: Char, xs: Char*): Array[Char] \u003d {\n    val array \u003d new Array[Char](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates an array of `Int` objects */\n  // Subject to a compiler optimization in Cleanup, see above.\n  def apply(x: Int, xs: Int*): Array[Int] \u003d {\n    val array \u003d new Array[Int](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates an array of `Long` objects */\n  // Subject to a compiler optimization in Cleanup, see above.\n  def apply(x: Long, xs: Long*): Array[Long] \u003d {\n    val array \u003d new Array[Long](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates an array of `Float` objects */\n  // Subject to a compiler optimization in Cleanup, see above.\n  def apply(x: Float, xs: Float*): Array[Float] \u003d {\n    val array \u003d new Array[Float](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates an array of `Double` objects */\n  // Subject to a compiler optimization in Cleanup, see above.\n  def apply(x: Double, xs: Double*): Array[Double] \u003d {\n    val array \u003d new Array[Double](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates an array of `Unit` objects */\n  def apply(x: Unit, xs: Unit*): Array[Unit] \u003d {\n    val array \u003d new Array[Unit](xs.length + 1)\n    array(0) \u003d x\n    val iterator \u003d xs.iterator\n    var i \u003d 1\n    while (iterator.hasNext) {\n      array(i) \u003d iterator.next(); i +\u003d 1\n    }\n    array\n  }\n\n  /** Creates array with given dimensions */\n  def ofDim[T: ClassTag](n1: Int): Array[T] \u003d\n    new Array[T](n1)\n  /** Creates a 2-dimensional array */\n  def ofDim[T: ClassTag](n1: Int, n2: Int): Array[Array[T]] \u003d {\n    val arr: Array[Array[T]] \u003d (new Array[Array[T]](n1): Array[Array[T]])\n    for (i \u003c- 0 until n1) arr(i) \u003d new Array[T](n2)\n    arr\n    // tabulate(n1)(_ \u003d\u003e ofDim[T](n2))\n  }\n  /** Creates a 3-dimensional array */\n  def ofDim[T: ClassTag](n1: Int, n2: Int, n3: Int): Array[Array[Array[T]]] \u003d\n    tabulate(n1)(_ \u003d\u003e ofDim[T](n2, n3))\n  /** Creates a 4-dimensional array */\n  def ofDim[T: ClassTag](n1: Int, n2: Int, n3: Int, n4: Int): Array[Array[Array[Array[T]]]] \u003d\n    tabulate(n1)(_ \u003d\u003e ofDim[T](n2, n3, n4))\n  /** Creates a 5-dimensional array */\n  def ofDim[T: ClassTag](n1: Int, n2: Int, n3: Int, n4: Int, n5: Int): Array[Array[Array[Array[Array[T]]]]] \u003d\n    tabulate(n1)(_ \u003d\u003e ofDim[T](n2, n3, n4, n5))\n\n  /** Concatenates all arrays into a single array.\n   *\n   *  @param xss the given arrays\n   *  @return   the array created from concatenating `xss`\n   */\n  def concat[T: ClassTag](xss: Array[T]*): Array[T] \u003d {\n    val b \u003d newBuilder[T]\n    b.sizeHint(xss.map(_.length).sum)\n    for (xs \u003c- xss) b ++\u003d xs\n    b.result()\n  }\n\n  /** Returns an array that contains the results of some element computation a number\n   *  of times.\n   *\n   *  Note that this means that `elem` is computed a total of n times:\n   *  {{{\n   * scala\u003e Array.fill(3){ math.random }\n   * res3: Array[Double] \u003d Array(0.365461167592537, 1.550395944913685E-4, 0.7907242137333306)\n   *  }}}\n   *\n   *  @param   n  the number of elements desired\n   *  @param   elem the element computation\n   *  @return an Array of size n, where each element contains the result of computing\n   *  `elem`.\n   */\n  def fill[T: ClassTag](n: Int)(elem: \u003d\u003e T): Array[T] \u003d {\n    if (n \u003c\u003d 0) {\n      empty[T]\n    } else {\n      val array \u003d new Array[T](n)\n      var i \u003d 0\n      while (i \u003c n) {\n        array(i) \u003d elem\n        i +\u003d 1\n      }\n      array\n    }\n  }\n\n  /** Returns a two-dimensional array that contains the results of some element\n   *  computation a number of times.\n   *\n   *  @param   n1  the number of elements in the 1st dimension\n   *  @param   n2  the number of elements in the 2nd dimension\n   *  @param   elem the element computation\n   */\n  def fill[T: ClassTag](n1: Int, n2: Int)(elem: \u003d\u003e T): Array[Array[T]] \u003d\n    tabulate(n1)(_ \u003d\u003e fill(n2)(elem))\n\n  /** Returns a three-dimensional array that contains the results of some element\n   *  computation a number of times.\n   *\n   *  @param   n1  the number of elements in the 1st dimension\n   *  @param   n2  the number of elements in the 2nd dimension\n   *  @param   n3  the number of elements in the 3rd dimension\n   *  @param   elem the element computation\n   */\n  def fill[T: ClassTag](n1: Int, n2: Int, n3: Int)(elem: \u003d\u003e T): Array[Array[Array[T]]] \u003d\n    tabulate(n1)(_ \u003d\u003e fill(n2, n3)(elem))\n\n  /** Returns a four-dimensional array that contains the results of some element\n   *  computation a number of times.\n   *\n   *  @param   n1  the number of elements in the 1st dimension\n   *  @param   n2  the number of elements in the 2nd dimension\n   *  @param   n3  the number of elements in the 3rd dimension\n   *  @param   n4  the number of elements in the 4th dimension\n   *  @param   elem the element computation\n   */\n  def fill[T: ClassTag](n1: Int, n2: Int, n3: Int, n4: Int)(elem: \u003d\u003e T): Array[Array[Array[Array[T]]]] \u003d\n    tabulate(n1)(_ \u003d\u003e fill(n2, n3, n4)(elem))\n\n  /** Returns a five-dimensional array that contains the results of some element\n   *  computation a number of times.\n   *\n   *  @param   n1  the number of elements in the 1st dimension\n   *  @param   n2  the number of elements in the 2nd dimension\n   *  @param   n3  the number of elements in the 3rd dimension\n   *  @param   n4  the number of elements in the 4th dimension\n   *  @param   n5  the number of elements in the 5th dimension\n   *  @param   elem the element computation\n   */\n  def fill[T: ClassTag](n1: Int, n2: Int, n3: Int, n4: Int, n5: Int)(elem: \u003d\u003e T): Array[Array[Array[Array[Array[T]]]]] \u003d\n    tabulate(n1)(_ \u003d\u003e fill(n2, n3, n4, n5)(elem))\n\n  /** Returns an array containing values of a given function over a range of integer\n   *  values starting from 0.\n   *\n   *  @param  n   The number of elements in the array\n   *  @param  f   The function computing element values\n   *  @return An `Array` consisting of elements `f(0),f(1), ..., f(n - 1)`\n   */\n  def tabulate[T: ClassTag](n: Int)(f: Int \u003d\u003e T): Array[T] \u003d {\n    if (n \u003c\u003d 0) {\n      empty[T]\n    } else {\n      val array \u003d new Array[T](n)\n      var i \u003d 0\n      while (i \u003c n) {\n        array(i) \u003d f(i)\n        i +\u003d 1\n      }\n      array\n    }\n  }\n\n  /** Returns a two-dimensional array containing values of a given function\n   *  over ranges of integer values starting from `0`.\n   *\n   *  @param   n1  the number of elements in the 1st dimension\n   *  @param   n2  the number of elements in the 2nd dimension\n   *  @param   f   The function computing element values\n   */\n  def tabulate[T: ClassTag](n1: Int, n2: Int)(f: (Int, Int) \u003d\u003e T): Array[Array[T]] \u003d\n    tabulate(n1)(i1 \u003d\u003e tabulate(n2)(f(i1, _)))\n\n  /** Returns a three-dimensional array containing values of a given function\n   *  over ranges of integer values starting from `0`.\n   *\n   *  @param   n1  the number of elements in the 1st dimension\n   *  @param   n2  the number of elements in the 2nd dimension\n   *  @param   n3  the number of elements in the 3rd dimension\n   *  @param   f   The function computing element values\n   */\n  def tabulate[T: ClassTag](n1: Int, n2: Int, n3: Int)(f: (Int, Int, Int) \u003d\u003e T): Array[Array[Array[T]]] \u003d\n    tabulate(n1)(i1 \u003d\u003e tabulate(n2, n3)(f(i1, _, _)))\n\n  /** Returns a four-dimensional array containing values of a given function\n   *  over ranges of integer values starting from `0`.\n   *\n   *  @param   n1  the number of elements in the 1st dimension\n   *  @param   n2  the number of elements in the 2nd dimension\n   *  @param   n3  the number of elements in the 3rd dimension\n   *  @param   n4  the number of elements in the 4th dimension\n   *  @param   f   The function computing element values\n   */\n  def tabulate[T: ClassTag](n1: Int, n2: Int, n3: Int, n4: Int)(f: (Int, Int, Int, Int) \u003d\u003e T): Array[Array[Array[Array[T]]]] \u003d\n    tabulate(n1)(i1 \u003d\u003e tabulate(n2, n3, n4)(f(i1, _, _, _)))\n\n  /** Returns a five-dimensional array containing values of a given function\n   *  over ranges of integer values starting from `0`.\n   *\n   *  @param   n1  the number of elements in the 1st dimension\n   *  @param   n2  the number of elements in the 2nd dimension\n   *  @param   n3  the number of elements in the 3rd dimension\n   *  @param   n4  the number of elements in the 4th dimension\n   *  @param   n5  the number of elements in the 5th dimension\n   *  @param   f   The function computing element values\n   */\n  def tabulate[T: ClassTag](n1: Int, n2: Int, n3: Int, n4: Int, n5: Int)(f: (Int, Int, Int, Int, Int) \u003d\u003e T): Array[Array[Array[Array[Array[T]]]]] \u003d\n    tabulate(n1)(i1 \u003d\u003e tabulate(n2, n3, n4, n5)(f(i1, _, _, _, _)))\n\n  /** Returns an array containing a sequence of increasing integers in a range.\n   *\n   *  @param start  the start value of the array\n   *  @param end    the end value of the array, exclusive (in other words, this is the first value \u0027\u0027\u0027not\u0027\u0027\u0027 returned)\n   *  @return  the array with values in range `start, start + 1, ..., end - 1`\n   *  up to, but excluding, `end`.\n   */\n  def range(start: Int, end: Int): Array[Int] \u003d range(start, end, 1)\n\n  /** Returns an array containing equally spaced values in some integer interval.\n   *\n   *  @param start the start value of the array\n   *  @param end   the end value of the array, exclusive (in other words, this is the first value \u0027\u0027\u0027not\u0027\u0027\u0027 returned)\n   *  @param step  the increment value of the array (may not be zero)\n   *  @return      the array with values in `start, start + step, ...` up to, but excluding `end`\n   */\n  def range(start: Int, end: Int, step: Int): Array[Int] \u003d {\n    if (step \u003d\u003d 0) throw new IllegalArgumentException(\"zero step\")\n    val array \u003d new Array[Int](immutable.Range.count(start, end, step, isInclusive \u003d false))\n\n    var n \u003d 0\n    var i \u003d start\n    while (if (step \u003c 0) end \u003c i else i \u003c end) {\n      array(n) \u003d i\n      i +\u003d step\n      n +\u003d 1\n    }\n    array\n  }\n\n  /** Returns an array containing repeated applications of a function to a start value.\n   *\n   *  @param start the start value of the array\n   *  @param len   the number of elements returned by the array\n   *  @param f     the function that is repeatedly applied\n   *  @return      the array returning `len` values in the sequence `start, f(start), f(f(start)), ...`\n   */\n  def iterate[T: ClassTag](start: T, len: Int)(f: T \u003d\u003e T): Array[T] \u003d {\n    if (len \u003e 0) {\n      val array \u003d new Array[T](len)\n      var acc \u003d start\n      var i \u003d 1\n      array(0) \u003d acc\n\n      while (i \u003c len) {\n        acc \u003d f(acc)\n        array(i) \u003d acc\n        i +\u003d 1\n      }\n      array\n    } else {\n      empty[T]\n    }\n  }\n\n  /** Compare two arrays per element.\n   *\n   *  A more efficient version of `xs.sameElements(ys)`.\n   *\n   *  Note that arrays are invariant in Scala, but it may\n   *  be sound to cast an array of arbitrary reference type\n   *  to `Array[AnyRef]`. Arrays on the JVM are covariant\n   *  in their element type.\n   *\n   *  `Array.equals(xs.asInstanceOf[Array[AnyRef]], ys.asInstanceOf[Array[AnyRef]])`\n   *\n   *  @param xs an array of AnyRef\n   *  @param ys an array of AnyRef\n   *  @return true if corresponding elements are equal\n   */\n  def equals(xs: Array[AnyRef], ys: Array[AnyRef]): Boolean \u003d\n    (xs eq ys) ||\n    (xs.length \u003d\u003d ys.length) \u0026\u0026 {\n      var i \u003d 0\n      while (i \u003c xs.length \u0026\u0026 xs(i) \u003d\u003d ys(i)) i +\u003d 1\n      i \u003e\u003d xs.length\n    }\n\n  /** Called in a pattern match like `{ case Array(x,y,z) \u003d\u003e println(\u00273 elements\u0027)}`.\n   *\n   *  @param x the selector value\n   *  @return  sequence wrapped in a [[scala.Some]], if `x` is an Array, otherwise `None`\n   */\n  def unapplySeq[T](x: Array[T]): UnapplySeqWrapper[T] \u003d new UnapplySeqWrapper(x)\n\n  final class UnapplySeqWrapper[T](private val a: Array[T]) extends AnyVal {\n    def isEmpty: false \u003d false\n    def get: UnapplySeqWrapper[T] \u003d this\n    def lengthCompare(len: Int): Int \u003d a.lengthCompare(len)\n    def apply(i: Int): T \u003d a(i)\n    def drop(n: Int): scala.Seq[T] \u003d ArraySeq.unsafeWrapArray(a.drop(n)) // clones the array, also if n \u003d\u003d 0\n    def toSeq: scala.Seq[T] \u003d a.toSeq // clones the array\n  }\n}\n\n/** Arrays are mutable, indexed collections of values. `Array[T]` is Scala\u0027s representation\n *  for Java\u0027s `T[]`.\n *\n *  {{{\n *  val numbers \u003d Array(1, 2, 3, 4)\n *  val first \u003d numbers(0) // read the first element\n *  numbers(3) \u003d 100 // replace the 4th array element with 100\n *  val biggerNumbers \u003d numbers.map(_ * 2) // multiply all numbers by two\n *  }}}\n *\n *  Arrays make use of two common pieces of Scala syntactic sugar, shown on lines 2 and 3 of the above\n *  example code.\n *  Line 2 is translated into a call to `apply(Int)`, while line 3 is translated into a call to\n *  `update(Int, T)`.\n *\n *  Two implicit conversions exist in [[scala.Predef]] that are frequently applied to arrays: a conversion\n *  to [[scala.collection.ArrayOps]] (shown on line 4 of the example above) and a conversion\n *  to [[scala.collection.mutable.ArraySeq]] (a subtype of [[scala.collection.Seq]]).\n *  Both types make available many of the standard operations found in the Scala collections API.\n *  The conversion to `ArrayOps` is temporary, as all operations defined on `ArrayOps` return an `Array`,\n *  while the conversion to `ArraySeq` is permanent as all operations return a `ArraySeq`.\n *\n *  The conversion to `ArrayOps` takes priority over the conversion to `ArraySeq`. For instance,\n *  consider the following code:\n *\n *  {{{\n *  val arr \u003d Array(1, 2, 3)\n *  val arrReversed \u003d arr.reverse\n *  val seqReversed : collection.Seq[Int] \u003d arr.reverse\n *  }}}\n *\n *  Value `arrReversed` will be of type `Array[Int]`, with an implicit conversion to `ArrayOps` occurring\n *  to perform the `reverse` operation. The value of `seqReversed`, on the other hand, will be computed\n *  by converting to `ArraySeq` first and invoking the variant of `reverse` that returns another\n *  `ArraySeq`.\n *\n *  @see [[https://www.scala-lang.org/files/archive/spec/2.13/ Scala Language Specification]], for in-depth information on the transformations the Scala compiler makes on Arrays (Sections 6.6 and 6.15 respectively.)\n *  @see [[https://docs.scala-lang.org/sips/scala-2-8-arrays.html \"Scala 2.8 Arrays\"]] the Scala Improvement Document detailing arrays since Scala 2.8.\n *  @see [[https://docs.scala-lang.org/overviews/collections-2.13/arrays.html \"The Scala 2.8 Collections\u0027 API\"]] section on `Array` by Martin Odersky for more information.\n *  @hideImplicitConversion scala.Predef.booleanArrayOps\n *  @hideImplicitConversion scala.Predef.byteArrayOps\n *  @hideImplicitConversion scala.Predef.charArrayOps\n *  @hideImplicitConversion scala.Predef.doubleArrayOps\n *  @hideImplicitConversion scala.Predef.floatArrayOps\n *  @hideImplicitConversion scala.Predef.intArrayOps\n *  @hideImplicitConversion scala.Predef.longArrayOps\n *  @hideImplicitConversion scala.Predef.refArrayOps\n *  @hideImplicitConversion scala.Predef.shortArrayOps\n *  @hideImplicitConversion scala.Predef.unitArrayOps\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapRefArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapIntArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapDoubleArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapLongArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapFloatArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapCharArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapByteArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapShortArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapBooleanArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.wrapUnitArray\n *  @hideImplicitConversion scala.LowPriorityImplicits.genericWrapArray\n *  @define coll array\n *  @define Coll `Array`\n *  @define orderDependent\n *  @define orderDependentFold\n *  @define mayNotTerminateInf\n *  @define willNotTerminateInf\n *  @define collectExample\n *  @define undefinedorder\n */\nfinal class Array[T](_length: Int) extends java.io.Serializable with java.lang.Cloneable {\n\n  /** The length of the array */\n  def length: Int \u003d throw new Error()\n\n  /** The element at given index.\n   *\n   *  Indices start at `0`; `xs.apply(0)` is the first element of array `xs`.\n   *  Note the indexing syntax `xs(i)` is a shorthand for `xs.apply(i)`.\n   *\n   *  @param    i   the index\n   *  @return       the element at the given index\n   *  @throws       ArrayIndexOutOfBoundsException if `i \u003c 0` or `length \u003c\u003d i`\n   */\n  def apply(i: Int): T \u003d throw new Error()\n\n  /** Update the element at given index.\n   *\n   *  Indices start at `0`; `xs.update(i, x)` replaces the i^th^ element in the array.\n   *  Note the syntax `xs(i) \u003d x` is a shorthand for `xs.update(i, x)`.\n   *\n   *  @param    i   the index\n   *  @param    x   the value to be written at index `i`\n   *  @throws       ArrayIndexOutOfBoundsException if `i \u003c 0` or `length \u003c\u003d i`\n   */\n  def update(i: Int, x: T): Unit \u003d { throw new Error() }\n\n  /** Clone the Array.\n   *\n   *  @return A clone of the Array.\n   */\n  override def clone(): Array[T] \u003d throw new Error()\n}\n"
+    }
+  }
+}
+java.lang.IllegalArgumentException: Illegal character in opaque part at index 27: jar:file:///C:/Users/Samuel Rodriguez/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14-sources.jar!/scala/Array.scala
+	at java.base/java.net.URI.create(URI.java:906)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:177)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$3(MtagsEnrichments.scala:174)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:152)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:174)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:391)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 27: jar:file:///C:/Users/Samuel Rodriguez/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14-sources.jar!/scala/Array.scala
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parse(URI.java:3181)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URI.create(URI.java:904)
+	... 24 more
+
+Oct 15, 2024 11:44:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didClose",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///C%3A/Users/Samuel%20Rodriguez/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14-sources.jar%21/scala/Array.scala"
+    }
+  }
+}
+java.lang.IllegalArgumentException: Illegal character in opaque part at index 27: jar:file:///C:/Users/Samuel Rodriguez/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14-sources.jar!/scala/Array.scala
+	at java.base/java.net.URI.create(URI.java:906)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:177)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$3(MtagsEnrichments.scala:174)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:152)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:174)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didClose(WorkspaceLspService.scala:410)
+	at scala.meta.metals.lsp.DelegatingScalaService.didClose(DelegatingScalaService.scala:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 27: jar:file:///C:/Users/Samuel Rodriguez/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14-sources.jar!/scala/Array.scala
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parse(URI.java:3181)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URI.create(URI.java:904)
+	... 24 more
+
+2024.10.16 23:35:58 INFO  Shutting down server
+2024.10.16 23:35:58 INFO  shutting down Metals
+2024.10.16 23:35:58 INFO  Shut down connection with build server.
+2024.10.16 23:35:58 INFO  Shut down connection with build server.
+2024.10.16 23:35:58 INFO  Exiting server
