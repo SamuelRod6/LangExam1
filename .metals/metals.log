@@ -1993,3 +1993,120 @@ Caused by: java.net.URISyntaxException: Illegal character in opaque part at inde
 2024.10.16 23:35:58 INFO  Shut down connection with build server.
 2024.10.16 23:35:58 INFO  Shut down connection with build server.
 2024.10.16 23:35:58 INFO  Exiting server
+2024.10.16 23:36:45 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git' for client Visual Studio Code 1.94.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6641685c]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@762ee94d]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6641685c]
+2024.10.16 23:36:47 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.16 23:36:50 INFO  Attempting to connect to the build server...
+2024.10.16 23:36:50 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.10.16 23:36:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.16 23:36:53 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.10.16 23:36:53 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.10.16 23:36:53 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.10.16 23:36:55 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.10.16 23:37:00 INFO  time: Connected to build server in 10s
+2024.10.16 23:37:00 INFO  Connected to Build server: scala-cli v1.5.1
+2024.10.16 23:37:01 INFO  time: Imported build in 0.14s
+2024.10.16 23:37:01 INFO  running doctor check
+2024.10.16 23:37:01 INFO  java targets: LangExam1Git_0c85ed7fca-test, LangExam1Git_0c85ed7fca
+2024.10.16 23:37:09 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.16 23:37:10 INFO  time: indexed workspace in 9.63s
+2024.10.16 23:48:50 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.10.16 23:48:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.17 22:25:39 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git' for client Visual Studio Code 1.94.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@79fc5274]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7f4e4b5f]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@79fc5274]
+2024.10.17 22:25:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.17 22:25:47 INFO  Attempting to connect to the build server...
+2024.10.17 22:25:47 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.10.17 22:25:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.10.17 22:25:54 INFO  BSP server: Starting compilation server
+2024.10.17 22:26:04 INFO  time: Connected to build server in 17s
+2024.10.17 22:26:04 INFO  Connected to Build server: scala-cli v1.5.1
+2024.10.17 22:26:05 INFO  time: Imported build in 0.31s
+2024.10.17 22:26:04 INFO  running doctor check
+2024.10.17 22:26:04 INFO  java targets: LangExam1Git_0c85ed7fca-test, LangExam1Git_0c85ed7fca
+2024.10.17 22:26:13 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.17 22:26:14 INFO  time: indexed workspace in 9.62s
+2024.11.02 00:30:04 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git' for client Visual Studio Code 1.94.2.
+2024.11.02 00:30:04 INFO  time: initialize in 0.13s
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1bcf3e62]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@fe049e3]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1bcf3e62]
+2024.11.02 00:30:10 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.11.02 00:30:12 INFO  Attempting to connect to the build server...
+2024.11.02 00:30:12 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.11.02 00:30:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.02 00:30:16 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Microsoft\jdk-11.0.24.8-hotspot\bin\java.exe" (in directory "C:\Users\Samuel Rodriguez\Desktop\LangExam1Git"): CreateProcess error=2, The system cannot find the file specified
+2024.11.02 00:30:16 INFO  BSP server: For more details, please see 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\stacktraces\1730521815-11383569926563682951.log'
+2024.11.02 00:31:14 ERROR Timeout waiting for 'build/initialize' response
+2024.11.02 00:31:14 WARN  Retrying connection to the build server scala-cli
+2024.11.02 00:31:14 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.11.02 00:31:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.02 00:31:14 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Microsoft\jdk-11.0.24.8-hotspot\bin\java.exe" (in directory "C:\Users\Samuel Rodriguez\Desktop\LangExam1Git"): CreateProcess error=2, The system cannot find the file specified
+2024.11.02 00:31:14 INFO  BSP server: For more details, please see 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\stacktraces\1730521874-4977145306362391034.log'
+2024.11.02 00:32:14 ERROR Timeout waiting for 'build/initialize' response
+2024.11.02 00:32:14 WARN  Retrying connection to the build server scala-cli
+2024.11.02 00:32:14 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.11.02 00:32:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.02 00:32:14 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Microsoft\jdk-11.0.24.8-hotspot\bin\java.exe" (in directory "C:\Users\Samuel Rodriguez\Desktop\LangExam1Git"): CreateProcess error=2, The system cannot find the file specified
+2024.11.02 00:32:14 INFO  BSP server: For more details, please see 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\stacktraces\1730521934-11182222909417502340.log'
+2024.11.02 00:33:14 ERROR Timeout waiting for 'build/initialize' response
+2024.11.02 00:33:14 WARN  Retrying connection to the build server scala-cli
+2024.11.02 00:33:14 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.11.02 00:33:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.02 00:33:14 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Microsoft\jdk-11.0.24.8-hotspot\bin\java.exe" (in directory "C:\Users\Samuel Rodriguez\Desktop\LangExam1Git"): CreateProcess error=2, The system cannot find the file specified
+2024.11.02 00:33:14 INFO  BSP server: For more details, please see 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\stacktraces\1730521994-17345620145329515489.log'
+2024.11.02 00:34:14 ERROR Timeout waiting for 'build/initialize' response
+2024.11.02 00:34:14 WARN  Retrying connection to the build server scala-cli
+2024.11.02 00:34:14 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.11.02 00:34:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.02 00:34:14 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Microsoft\jdk-11.0.24.8-hotspot\bin\java.exe" (in directory "C:\Users\Samuel Rodriguez\Desktop\LangExam1Git"): CreateProcess error=2, The system cannot find the file specified
+2024.11.02 00:34:14 INFO  BSP server: For more details, please see 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\stacktraces\1730522054-3009358501766044289.log'
+2024.11.02 00:35:14 ERROR Timeout waiting for 'build/initialize' response
+2024.11.02 00:35:14 WARN  Retrying connection to the build server scala-cli
+2024.11.02 00:35:14 INFO  Running BSP server List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\ide-envs.json, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.11.02 00:35:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.02 00:35:14 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Microsoft\jdk-11.0.24.8-hotspot\bin\java.exe" (in directory "C:\Users\Samuel Rodriguez\Desktop\LangExam1Git"): CreateProcess error=2, The system cannot find the file specified
+2024.11.02 00:35:14 INFO  BSP server: For more details, please see 'C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.scala-build\stacktraces\1730522114-1709231819744510949.log'
+2024.11.02 00:36:14 ERROR Timeout waiting for 'build/initialize' response
+2024.11.02 00:36:14 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:745)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:619)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.02 00:36:14 INFO  no build target found for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\p1.b.i.sc. Using presentation compiler with project's scala-library version: 3.3.3
+2024.11.02 00:36:16 INFO  Running List(C:\Users\Samuel Rodriguez\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, C:\Users\Samuel Rodriguez\Desktop\LangExam1Git)
+2024.11.02 00:36:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Samuel Rodriguez\Desktop\LangExam1Git\.metals\bsp.trace.json or C:\Users\Samuel Rodriguez\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.02 00:36:18 INFO  Scala CLI: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.11.02 00:36:18 INFO  Scala CLI: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.11.02 00:36:18 INFO  Scala CLI: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.11.02 00:36:19 INFO  Scala CLI: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.11.02 00:36:20 INFO  time: code lens generation in 6.64s
+2024.11.02 00:36:25 INFO  Scala CLI: Starting compilation server
+2024.11.02 00:36:36 INFO  Connected to Scala CLI server v1.5.1
+2024.11.02 00:36:38 INFO  compiling langexam1git_f4dd477a3a (1 scala source)
+2024.11.02 00:36:45 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.11.02 00:36:47 INFO  time: compiled LangExam1Git_f4dd477a3a in 9.43s
+2024.11.02 00:37:25 INFO  time: indexed workspace in 48s
+2024.11.02 16:08:17 INFO  Scala CLI started for C:\Users\Samuel Rodriguez\Desktop\LangExam1Git
+2024.11.02 16:08:43 INFO  Shutting down server
+2024.11.02 16:08:43 INFO  shutting down Metals
+2024.11.02 16:08:43 INFO  Shut down connection with build server.
+2024.11.02 16:08:43 INFO  Scala CLI: Nov 02, 2024 4:08:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.11.02 16:08:43 INFO  Scala CLI: WARNING: Notification threw an exception: {
+2024.11.02 16:08:43 INFO  Exiting server
